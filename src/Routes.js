@@ -31,6 +31,7 @@ const Routes = () => {
                         <p>Thank you for coming to my page!</p>
                         <p>Kindly view it from your laptop/desktop screen.</p>
                         <p>The mobile version is still in progress.</p>
+                        <p>Sincere apologies for the inconvenience!</p>
                     </div>
                     :
                     <Switch>
