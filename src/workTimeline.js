@@ -15,11 +15,11 @@ export const workTimeline = [
         company: 'VODA.AI',
         location: 'BOSTON, MA',
         year: '2019',
-        title: 'The one where I used ML for the first time',
-        description: 'I was hired as an intern at this startup based in Boston, where I designed and developed their very own web application for their clients.',
+        title: 'The one where I indulged in GIS development for the first time',
+        description: 'I was hired as an intern at this startup based in Boston, where I designed and developed their very own web application for their clients in order to highlight the high-risk pipes in the map of the city. This was one of the coolest projects I have worked on.',
         img: '/voda_logo.png',
         logo: '/voda_logo.png',
-        url:''
+        url:'https://voda.ai'
     },
     {
         id: 3,
@@ -48,7 +48,7 @@ export const workTimeline = [
         company: 'DISHAA PRATISHTHAAN',
         location: 'MUMBAI, INDIA',
         year: '2020-2021',
-        title: 'The where I can connect people to happiness and mindfulness',
+        title: 'The one where I can connect people to happiness and mindfulness',
         description: 'I volunteer at a Mumbai-based NGO in India named Dishaa Pratishthaan. I created, designed and developed their website that provides a user portal for their customers to learn and practice meditation and enroll for counseling sessions. It also helps increase their web presence and get a wider and global reach.',
         img: '/reiki.png',
         logo: '/dpt.png',
