@@ -5,7 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: antiquewhite;
+  /*background-color: antiquewhite;*/
   height: 100vh;
   font-family: "neosans regular", "Helvetica Neue", Helvetica, Arial, Sans-serif;
 }

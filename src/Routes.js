@@ -3,6 +3,12 @@ import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
 import Home from './Home';
 import About from "./About";
 import Work from "./Work";
+import Voice from "./Voice";
+import CaaP from "./CaaP";
+import NUShare from "./NUShare";
+import Dishaa from "./Dishaa";
+import Photography from "./Photography";
+import Contact from "./Contact";
 
 const Routes = () => {
 
@@ -32,6 +38,12 @@ const Routes = () => {
                         <Route path="/home" component={Home}/>
                         <Route path="/about" component={About}/>
                         <Route path="/work" component={Work}/>
+                        <Route path="/photography" component={Photography}/>
+                        <Route path="/contact" component={Contact}/>
+                        <Route path="/project/voice" component={Voice} />
+                        <Route path="/project/caap" component={CaaP} />
+                        <Route path="/project/nushare" component={NUShare} />
+                        <Route path="/project/dishaa" component={Dishaa} />
                     </Switch>}
 
             </div>
