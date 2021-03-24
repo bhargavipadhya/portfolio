@@ -39,7 +39,7 @@ const Work = () => {
                         {workTimeline.map((item, i) => (
                             <div key={i} className="tab-menu">
                                 <span onClick={() => setTimelineItem(item.id)}>
-                                    <img src={process.env.PUBLIC_URL + item.logo} className="timeline-logo" alt={item.company + 'logo'} width="60"/>
+                                    <img src={window.location.origin + item.logo} className="timeline-logo" alt={item.company + 'logo'} width="60"/>
                                 </span>
                             </div>
                         ))}
@@ -49,7 +49,7 @@ const Work = () => {
                                 return timelineItem === item.id &&
                                     <div key={index} className="tab-content">
                                         <a href={item.url} target="_blank" rel="noreferrer">
-                                            <img src={process.env.PUBLIC_URL + item.img} className="item-image"/>
+                                            <img src={window.location.origin + item.img} className="item-image"/>
                                         </a>
                                         <div className="item-info">
                                             <small>{item.year} • {item.company} • {item.location}</small>
