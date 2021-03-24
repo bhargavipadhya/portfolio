@@ -65,7 +65,7 @@ const Work = () => {
                 <ul className="projects">
                     <p style={{textAlign: 'center'}} className="projects-title">MY WORK</p>
                     {workList.map((item, index) => (
-                        <Link to={`/project/${item.url}`} key={index} className="project-container">
+                        <Link to={`/project-${item.url}`} key={index} className="project-container">
                             <li>
                                 <div className="project">
                                     <span className="project-image-container">

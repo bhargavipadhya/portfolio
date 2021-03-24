@@ -14,7 +14,6 @@ import BA2 from './assets/caap/bef-aft-2.png';
 import BA3 from './assets/caap/bef-aft-3.png';
 import BA4 from './assets/caap/bef-aft-4.png';
 import BA5 from './assets/caap/bef-aft-5.png';
-import dpt from './assets/dpt.png';
 
 const CaaP = () => {
     return(
@@ -38,7 +37,7 @@ const CaaP = () => {
                         </p>
                     </div>
                     <div className="intro-image">
-                        <img src={dpt} />
+                        <img src={camera} />
                     </div>
                 </div>
 
