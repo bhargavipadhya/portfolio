@@ -51,7 +51,7 @@ export const workTimeline = [
         title: 'The one where I can connect people to happiness and mindfulness',
         description: 'I volunteer at a Mumbai-based NGO in India named Dishaa Pratishthaan. I created, designed and developed their website that provides a user portal for their customers to learn and practice meditation and enroll for counseling sessions. It also helps increase their web presence and get a wider and global reach.',
         img: '/reiki.png',
-        logo: '/dpt.png',
+        logo: '/DishaaLogo.png',
         url: 'https://dishaapratishthaan.com/'
     },
     {

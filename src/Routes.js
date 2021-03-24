@@ -41,7 +41,7 @@ const Routes = () => {
                         <Route path="/work" component={Work}/>
                         <Route path="/photography" component={Photography}/>
                         <Route path="/contact" component={Contact}/>
-                        <Route path="/project/voice" component={Voice} />
+                        <Route path="/project/voice" exact component={Voice} />
                         <Route path="/project/caap" component={CaaP} />
                         <Route path="/project/nushare" component={NUShare} />
                         <Route path="/project/dishaa" component={Dishaa} />
