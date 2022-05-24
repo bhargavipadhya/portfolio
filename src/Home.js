@@ -20,7 +20,7 @@ const Home = () => {
                     Bhargavi Padhya
                 </h1>
                 <div className="name-subheading">
-                    Designer, Developer, Bookworm, Trekker
+                    Designer, Developer, Creator, Trekker
                 </div>
 
             </div>
@@ -29,7 +29,7 @@ const Home = () => {
                 <p>I am a developer who brings concepts and designs to life using code. I'm also a designer who makes sure that, that code, results in providing a delightful user experience.
                 I'm a UX unicorn in the world full of designers and developers. I love having the knowledge from both the worlds, and applying those to solve complex UI problems.
                     I'm a curious life-long learner, a motivated self-starter and a result-oriented person. I love working in teams, there's just something about that buzz of working together towards a shared common goal. When it comes to work, I would like to be involved in projects that I find challenging and with people that inspire me.</p>
-                <p>If you catch me outside of work, I'm an avid crime novel reader, tennis lover, and you'll most likely see me petting dogs and cats. If you want to spend time with me, come trek with me, because that's where you'll find me!</p>
+                <p>If you catch me outside of work, you'll most likely see me petting dogs and cats. I love creating, be it content for my <a href="https://instagram.com/my.per.spective" target="_blank">photography page</a> or greeting cards for my side gig <a href="https://instagram.com/punnygreetsco" target="_blank">Punny greets Co</a>. I love exploring new places and capturing pictures and videos of moments cuz Carpe Diem! If you want to spend time with me, come trek with me, because that's where you'll find me!</p>
             </div>
             <div className="kind-words">
                 <h1 className="name-heading">Kind words</h1>

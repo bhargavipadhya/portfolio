@@ -37,7 +37,7 @@ const NavbarForHome = () => {
                     <ul className="nav-items">
                         <Link to='/'><li className="nav-item">HOME</li></Link>
                         <Link to='/work'><li className="nav-item">WORK</li></Link>
-                        {/*<Link to='/photography'><li className="nav-item">PHOTOGRAPHY</li></Link>*/}
+                        {/*<Link to='/personal'><li className="nav-item">PERSONAL</li></Link>*/}
                         <Link to='/contact'><li className="nav-item">CONTACT</li></Link>
                     </ul>
                 </span>

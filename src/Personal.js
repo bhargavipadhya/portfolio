@@ -3,14 +3,17 @@ import Navbar from "./Navbar";
 import Footer from "./Footer";
 import NavbarForHome from "./NavbarForHome";
 
-const Photography = () => {
+const Personal = () => {
     return(
         <div className="Photography">
             <NavbarForHome/>
-            photography
+            <div style={{height: '50vw',  marginTop: '200px'}}>
+                Personal stuff :P
+            </div>
+
             <Footer/>
         </div>
     )
 };
 
-export default Photography;
+export default Personal;

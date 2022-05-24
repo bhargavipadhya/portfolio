@@ -7,7 +7,7 @@ import Voice from "./Voice";
 import CaaP from "./CaaP";
 import NUShare from "./NUShare";
 import Dishaa from "./Dishaa";
-import Photography from "./Photography";
+import Personal from "./Personal";
 import Contact from "./Contact";
 
 const Routes = () => {
@@ -39,7 +39,7 @@ const Routes = () => {
                         <Route path="/home" component={Home}/>
                         <Route path="/about" component={About}/>
                         <Route path="/work" component={Work}/>
-                        <Route path="/photography" component={Photography}/>
+                        <Route path="/personal" component={Personal}/>
                         <Route path="/contact" component={Contact}/>
                         <Route path="/project-voice" component={Voice} />
                         <Route path="/project-caap" component={CaaP} />
